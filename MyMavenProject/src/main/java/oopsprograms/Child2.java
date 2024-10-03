@@ -13,7 +13,7 @@ package oopsprograms;
 	  
 		Child2 obj = new Child2();
 		obj.child2();
-		obj1.child1(); 
+		 	
 
 	}
 
